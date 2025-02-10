@@ -8,6 +8,7 @@ tagline:          'Full Stack Developer'
 description:      'Tech-savvy problem solver dedicated to enhancing user experiences and operational efficiency'
 url:              http://rai-gaurav.github.io
 baseurl:          '/'
+google_analytics: 'UA-22932336-1'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
@@ -17,6 +18,8 @@ baseurl:          '/'
 author:
   name:           'Gaurav Rai'
   url:            http://rai-gaurav.github.io
+  github:         https://github.com/rai-gaurav
+  linkedin:       https://linkedin.com/gaurav-rai
 
 paginate:         5
 # paginate_path:    '/page:num'
