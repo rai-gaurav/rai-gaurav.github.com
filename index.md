@@ -1,6 +1,6 @@
 ---
-layout: index
-title: Full Stack developer
+layout: page
+title: Home
 ---
 
 # Summary / Objective
