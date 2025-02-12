@@ -4,8 +4,6 @@ title: Recognition
 sidebar_link: true
 ---
 
-## Recognition
-
 * Awarded first place at the **Forcepoint** *Hackathon* in 2022 in India.
 * Received *Kudos* awards from **McAfee** in 2021 and 2022 for outstanding performance.
 * Secured top honors at the **Sophos** *Hackathon* in 2019.
