@@ -1,13 +1,33 @@
 ---
-layout: page
+layout: index
 title: Home
 ---
 
-# Summary / Objective
+# About me
 
-Seasoned full-stack developer with over 13 years of IT industry experience, specializing in cloud-native solutions, security services, and automation.
-Experienced tech lead with a proven track record of delivering beneficial, cost-effective, and efficient projects. Quick learner with a positive outlook, adept at transforming ideas into actionable plans.
-Committed to driving innovation and efficiency to meet organizational objectives.
+Hello, I'm Gaurav Rai, a dedicated and skilled software developer with a robust background in a multitude of programming languages and technologies. With expertise in Python, Perl, Go, and shell scripting, I have a solid foundation for developing efficient and scalable solutions. My passion lies in building RESTful web services using tools like Swagger (OpenAPI) and GraphQL, and designing robust microservice architectures.
+
+I have hands-on experience with HTML5, CSS, JavaScript, and React.js, coupled with a knack for data visualization using JavaScript libraries like amCharts, chart.js, and plotly. Proficient in both Linux and Windows environments, I am well-versed in managing SQL and NoSQL databases, including Sybase ASE/IQ, Intersystem Cache, Redis, PostgreSQL, CouchDB, MongoDB, MariaDB/MySQL, and Elasticsearch.
+
+My technical skills extend to DevOps and cloud technologies, with experience using differnt AWS services, Kubernetes, Helm Charts, CI/CD pipelines, and Argo CD. I have a strong understanding of containerization using Docker and Docker Compose, which allows me to efficiently deploy and manage applications.
+
+In the realm of automation testing, I am adept with libraries and tools such as Pytest, MS Playwright, Selenium, and Robot Framework.
+
+Throughout my career, I have utilized back-end web frameworks like Django, Flask, Catalyst, and Mojolicious to build robust web applications, while managing web servers such as Apache2 and Nginx. My engineering skills are enhanced by the use of tools and applications like wiki, Confluence, and JIRA.
+
+I am a strong proponent of Agile methodologies, and I adhere to the principles of the software development life cycle (SDLC) and test-driven development (TDD) to deliver high-quality software solutions.
+
+* * *
+
+## Contact
+
+- Email: [gauravrai7860@gmail.com](mailto:gauravrai7860@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/rai-gaurav
+
+* * *
+
+## Personal Interests
+When I'm not coding, I love hiking, playing video games and exploring new technologies. My journey as a developer began with a fascination for creating solutions that make life easier.
 
 * * *
 
