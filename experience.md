@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Professional Experience
+title: Experience
 sidebar_link: true
 ---
 
 # Resume
 
-[Download a PDF version](/assets/pdf/Gaurav_Rai_Resume.pdf) of this resume. An overview of my experience can be found here.
+[Download a PDF version](/assets/pdf/Gaurav_Rai_Resume.pdf) of my resume.
 
 * * *
 
@@ -73,4 +73,25 @@ and Data Loss Prevention (DLP).
 * Improved the EDR Test Framework, Magneto (Django, AWS).
 * Tested Sophos Intercept X, a malware detection and exploit protection system using a deep learning neural network, with Magneto to ensure effectiveness.
 * Conducted malware analysis using OS Query with Apache Kafka to identify unusual endpoint behaviour.
-* Developed a web UI (React.js) with historical records, trending graphs, and stats for all projects,
+* Developed a web UI (React.js) with historical records, trending graphs, and stats for all projects,along with a REST API based on the OpenAPI (Swagger) Specification.
+
+
+## Pramati Technologies
+#### Apr 2016 – Mar 2017, Hyderabad
+
+### Senior Development Engineer
+* Contributed to DoctorBase, a Kareo practice management platform built with Python, Modern Perl (Catalyst), and AWS.
+* It provides cloud-based practice management services for physicians, including appointment scheduling, reminders, messaging, reporting, reviews, and forums.
+* Enabled patients to rate doctors based on their visit experiences and ask health-related questions.
+
+
+## Cognizant Technology Solutions / Credit-Suisse
+#### Dec 2011 – Mar 2016 & May 2017 – Nov 2017, Pune
+
+### Associate
+* Worked on AGORA, an Order and Quote Management system for Credit-Suisse, developing intraday and end-of-day loaders for daily ETL data transfers.
+* Created tools like the Usage Analysis Tool and Log Scrapper to automatically analyse production logs and generate necessary data.
+* Contributed to the AGORA life cycle automation project, Functional Test Harness, creating functional test cases and validating AGORA replies with comprehensive field coverage.
+* Also, worked in Electronic Trading Technology (Cash Equities) team.
+* Ensured quick turnaround and proactive action on critical alerts in major ETT components: Mercury (Exchange Connectivity Platform), GCE (Global Compliance Engine/Limit Check), and Pi (Market Data).
+  
