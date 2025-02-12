@@ -5,24 +5,20 @@ title: Home
 
 # About me
 
-Hello, I'm Gaurav Rai, a dedicated and skilled software developer with a robust background in a multitude of programming languages and technologies. With expertise in Python, Perl, Go, and shell scripting, I have a solid foundation for developing efficient and scalable solutions. My passion lies in building RESTful web services using tools like Swagger (OpenAPI) and GraphQL, and designing robust microservice architectures.
+Hi, I'm Gaurav Rai, a versatile software developer with expertise in Python, Perl, Go, and shell scripting. I specialize in building RESTful web services, microservices architecture, and data visualization using JavaScript.
 
-I have hands-on experience with HTML5, CSS, JavaScript, and React.js, coupled with a knack for data visualization using JavaScript libraries like amCharts, chart.js, and plotly. Proficient in both Linux and Windows environments, I am well-versed in managing SQL and NoSQL databases, including Sybase ASE/IQ, Intersystem Cache, Redis, PostgreSQL, CouchDB, MongoDB, MariaDB/MySQL, and Elasticsearch.
+I have experience with a range of technologies, including AWS, Kubernetes, Docker, CI/CD, and various SQL/NoSQL databases. My skills extend to automation testing tools like Pytest and Selenium, as well as back-end frameworks such as Django and Flask.
 
-My technical skills extend to DevOps and cloud technologies, with experience using differnt AWS services, Kubernetes, Helm Charts, CI/CD pipelines, and Argo CD. I have a strong understanding of containerization using Docker and Docker Compose, which allows me to efficiently deploy and manage applications.
+Proficient in Agile methodologies, I thrive in collaborative environments and am dedicated to writing clean, maintainable code.
 
-In the realm of automation testing, I am adept with libraries and tools such as Pytest, MS Playwright, Selenium, and Robot Framework.
-
-Throughout my career, I have utilized back-end web frameworks like Django, Flask, Catalyst, and Mojolicious to build robust web applications, while managing web servers such as Apache2 and Nginx. My engineering skills are enhanced by the use of tools and applications like wiki, Confluence, and JIRA.
-
-I am a strong proponent of Agile methodologies, and I adhere to the principles of the software development life cycle (SDLC) and test-driven development (TDD) to deliver high-quality software solutions.
+On this website, you can find out more abouy my <a href="{% link experience.md %}">experience</a> with my skills.
 
 * * *
 
 ## Contact
 
 - Email: [gauravrai7860@gmail.com](mailto:gauravrai7860@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/rai-gaurav
+- [LinkedIn](https://www.linkedin.com/in/rai-gaurav)
 
 * * *
 
