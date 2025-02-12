@@ -3,7 +3,7 @@
 # only main files contain this front matter, not partials.
 ---
 
-$sidebar-bg-color: radial-gradient(circle, #ff8a00, #e52e71);
+$sidebar-bg-color: #1a1a1a !default;
 $sidebar-fg-color: white !default;
 $sidebar-sticky: true !default;
 $layout-reverse: false !default;
