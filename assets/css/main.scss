@@ -3,10 +3,45 @@
 # only main files contain this front matter, not partials.
 ---
 
-$sidebar-bg-color: #202020 !default;
+$sidebar-bg-color: #2b375c !default;
 $sidebar-fg-color: white !default;
 $sidebar-sticky: true !default;
 $layout-reverse: false !default;
 $link-color: #268bd2 !default;
+$large-breakpoint: 49rem !default;
+
+body {
+    background-image: url(/assets/img/tree-leaves.jpg);
+    background-blend-mode: soft-light;
+    background-position: top left;
+    background-repeat: no-repeat;
+}
+
+
+/* Image alignment */
+img[alt$=">"] {
+    margin-left: 5px;
+    float: right;
+}
+
+img[alt$="<"] {
+    margin-right: 5px;
+    float: left;
+}
+
+img[alt$="><"] {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+    float: none!important;
+}
+
+@media (max-width: $large-breakpoint) {
+    img[alt$=">"], img[alt$="<"] {
+        display: block;
+        float: none;
+    }
+}
 
 @import "hydeout";
