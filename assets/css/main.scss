@@ -44,4 +44,27 @@ img[alt$="><"] {
     }
 }
 
+
+@media (max-width: $large-breakpoint) {
+    body {
+        background-size: cover;
+    }
+
+    .home #sidebar .logo {
+        display: block;
+        width: 3rem;
+        margin: 20px auto;
+    }
+
+    #sidebar .logo {
+        display: inline;
+        width: 1.3rem;
+        margin: 0 5px -3px 0;
+    }
+
+    img.post-featured {
+        float: none;
+    }
+  }
+
 @import "hydeout";
