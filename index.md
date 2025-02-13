@@ -11,7 +11,7 @@ I have experience with a range of technologies, including AWS, Kubernetes, Docke
 
 Proficient in Agile methodologies, I thrive in collaborative environments and am dedicated to writing clean, maintainable code.
 
-On this website, you can find out more abouy my <a href="{% link experience.md %}">experience</a> with my skills.
+On this website, you can find out more about my <a href="{% link experience.md %}">experience</a> with my skills.
 
 * * *
 
