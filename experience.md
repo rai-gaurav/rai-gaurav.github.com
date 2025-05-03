@@ -30,7 +30,7 @@ sidebar_link: true
 # Professional Experience
 
 ## Forcepoint Software India Private Limited
-#### August 2022 – Current, Pune
+#### Aug 2022 – Jan 2025, Pune
 
 ### Senior Software Engineer
 
