@@ -17,17 +17,27 @@ sidebar_link: true
 * HTML5, CSS, JavaScript and React.js. Data visualization using JavaScript (amCharts, chart.js and plotly)
 * Microservice Architecture
 * Sybase ASE/IQ, Intersystem Cache, Redis, PostgreSQL, CouchDB, MongoDB, Maria/MySQL, ES
-* AWS(Kinesis, S3, Redshift etc.), K8s, Helm Charts, CI/CD, Argo CD
+* AWS(Kinesis, S3, Redshift etc.), GCP, K8s, Helm Charts, CI/CD, Argo CD
 * Docker, Docker Compose
 * Pytest, MS Playwright, Selenium, Robot Framework
 * uWSGI, Gunicorn, ASGI, OS Query, Jenkins, Apache Thrift, Apache Zookeeper, Apache Spark, RabbitMQ
 * Git, SVN, Mercurial Hg, Perforce
-* Back-end web Frameworks: Django, Flask, Catalyst, Mojolicious
+* Back-end web Frameworks: FastAPI, Django, Flask, Catalyst, Mojolicious
 * Apache2, Nginx
 
 * * *
 
 # Professional Experience
+
+## MSCI Inc. (formerly Morgan Stanley Capital International)
+#### May 2025 – Current, Pune
+
+### Vice President
+
+* Contributing to MSCI’s ESG Climate Geospatial Platform by designing scalable microservices in FastAPI to ingest, cleanse, and deduplicate vendor-sourced asset data for climate product modeling.
+* Worked on a medallion architecture (bronze-silver-gold layers) to streamline data processing for institutional investors’ ESG decision making.
+* Leveraging GCP (BigQuery) and Kubernetes in a cloud-native environment.
+
 
 ## Forcepoint Software India Private Limited
 #### Aug 2022 – Jan 2025, Pune
